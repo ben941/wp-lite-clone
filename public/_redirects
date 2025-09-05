@@ -1,0 +1,9 @@
+# SPA fallback for Netlify
+/*    /index.html   200
+
+# Specific routes with proper status codes
+/blog /index.html 200
+/blog/* /index.html 200
+/auth /index.html 200
+/admin /index.html 200
+/admin/posts /index.html 200
